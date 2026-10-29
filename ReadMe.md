@@ -4,6 +4,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aleks616&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aleks616&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aleks616&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.shion.dev/api/top-langs/?username=aleks616&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-stats-extended.vercel.app/api/top-langs?username=aleks616&langs_count=6&theme=prussian)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
